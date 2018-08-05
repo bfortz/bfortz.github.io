@@ -6,7 +6,7 @@
 name: 2 Many Facets 
 
 # Short bio or description (displayed in the header)
-description: A journey through Combinatorial Optimization, Functional Programming, Web Development, Music and more...
+description: A journey through combinatorial optimization, functional programming, web development, music and more...
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/16426882?s=460&v=4
@@ -73,7 +73,8 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+  plugins:
+  - jemoji
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
@@ -84,3 +85,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - default.nix
+  - gemset.nix
