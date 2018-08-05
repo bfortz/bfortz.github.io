@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Bernard Fortz, professor in the [Graphs and Mathematical
 Optimization](https://gom.ulb.ac.be/) group in the [Computer Science
-Department] of  [Université libre the Bruxelles](https://www.ulb.ac.be).
+Department](http://www.ulb.ac.be/facs/sciences/info/) of  [Université libre the Bruxelles (ULB)](https://www.ulb.ac.be).
 
 My main [research
 activities](https://scholar.google.be/citations?user=YaOdoooAAAAJ) are in
@@ -20,7 +20,7 @@ Over the last few years, I developed a strong interest in functional programming
 
 When I find some time, I'm also a [DJ and mashup producer](https://www.facebook.com/krazyben/).
 
-Most importantly, I'm husband and father of 5 wonderful kids...
+Most importantly, I'm a husband and father of 5 wonderful kids...
 
 ### Contact me
 
