@@ -39,7 +39,7 @@ This blog will be a central place where I will share about this process.
 
 Moreover, I'm currently busy with the organization of the [Operations Research
 2018](https://www.or2018.be) (come and visit us in Brussels, registration is
-open until the end of August :smile:). The current [program
+open until the end of August). The current [program
 page](https://www.euro-online.org/conf/or2018/program) is quite heavy to load
 and not very mobile friendly. In addition, we also need to clean up the
 database of EURO users (hello GDPR) but this necessitates to re-think how to
