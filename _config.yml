@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: bfortz 
   instagram:
-  linkedin: bfortz
+  linkedin: bernard-fortz-50271814
   pinterest:
   rss: rss # just type anything here for a working RSS icon
   twitter: djkrazyben
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: 2-many-facets
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
