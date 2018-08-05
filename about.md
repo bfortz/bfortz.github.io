@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Bernard Fortz, professor in the [Graphs and Mathematical
+Optimization](https://gom.ulb.ac.be/) group in the [Computer Science
+Department] of  [Université libre the Bruxelles](https://www.ulb.ac.be).
 
-### More Information
+My main [research
+activities](https://scholar.google.be/citations?user=YaOdoooAAAAJ) are in
+combinatorial optimization, and in particular applications in networks
+(telecommunications, energy, ...) and decomposition methods for large-scale
+models and bilevel optimization.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm also involved in [EURO](https://www.euro-online.org), the Association of European Operational Research Societies, where I'm responsible of the website development and the abstract submission platform for [EURO conferences](https://www.euro-online.org/web/pages/100/conferences).
+
+Over the last few years, I developed a strong interest in functional programming, and in particular [clojure](https://www.clojure.org). I also contributed recently to some [NixOS](https://www.nixos.org) packages.
+
+When I find some time, I'm also a [DJ and mashup producer](https://www.facebook.com/krazyben/).
+
+Most importantly, I'm husband and father of 5 wonderful kids...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bernard.fortz@gmail.com](mailto:bernard.fortz@gmail.com)
+
+### Disclaimer
+
+Opinions shared on this blog are my own and not the views of ULB or EURO.
