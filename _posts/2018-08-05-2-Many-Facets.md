@@ -54,4 +54,4 @@ the many other facets of my life.
 Welcome to this journey, I hope you'll enjoy it,
 and I look forward to your comments and suggestions. Don't hesitate to contact
 me [by email](mailto:bernard.fortz@gmail.com), on
-[Twitter](https://www.twutter.com/djkrazyben) or by leaving comments here.
+[Twitter](https://www.twitter.com/djkrazyben) or by leaving comments here.
