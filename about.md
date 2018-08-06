@@ -6,7 +6,7 @@ permalink: /about/
 
 I am Bernard Fortz, professor in the [Graphs and Mathematical
 Optimization](https://gom.ulb.ac.be/) group in the [Computer Science
-Department](http://www.ulb.ac.be/facs/sciences/info/) of  [Université libre the Bruxelles (ULB)](https://www.ulb.ac.be).
+Department](http://www.ulb.ac.be/facs/sciences/info/) of  [Université libre the Bruxelles (ULB)](https://www.ulb.ac.be), and member of the [INOCS](https://team.inria.fr/inocs/) project team of [INRIA Lille-Nord Europe](https://www.inria.fr/centre/lille/). 
 
 My main [research
 activities](https://scholar.google.be/citations?user=YaOdoooAAAAJ) are in
