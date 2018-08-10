@@ -10,7 +10,13 @@ In [the previous post]({% post_url 2018-08-06-Program-Page-Part-1 %}), I describ
 
 The first step is the creation of a single data file with the relevant information. To achieve this, we will build a small clojure program that takes the information from the database, transform it to eliminate information we don't need here and correct some inefficiencies in the design of the database (an important task in the future will be to redesign that database, but this is another story).
 
-Enough talk, let's go. The full code is available in [this repository](https://github.com/bfortz/euro-edn-conference-program).
+Enough talk, let's go. The full code presented in this post is available
+[here](https://github.com/bfortz/euro-edn-conference-program/tree/cd0b0d8025285f223590d767a17acd78f582a1ce).
+
+**Update (August 10, 2018):** *I just refactored the code for efficiency. The new version
+is in [the master branch of the
+repository](https://github.com/bfortz/euro-edn-conference-program). I might
+make a post about the improvements if I find time...*
 
 ## Project requirements and configuration
 
@@ -422,8 +428,7 @@ Our program will be run regularly (e.g. by putting it in a crontab). If data did
 
 ## Putting it to work
 
-This program is now run every three hours for the [OR2018](https://www.or2018.be) conference. It takes about 5 seconds for each run, and the resulting file size is 840K. To check if it scales, I also tested the generation on the [EURO2018](http://euro2018valencia.com/) conference data, which was much bigger. Generation takes around 27 seconds for a file of size 3.1M. 
-Performance could certainly be improved by tuning the code, but this static file generation does not need to run often, so performance is not such an issue here.
+This program is now run every three hours for the [OR2018](https://www.or2018.be) conference. It takes about 10 seconds for each run, and the resulting file size is 840K. To check if it scales, I also tested the generation on the [EURO2018](http://euro2018valencia.com/) conference data, which was much bigger. Generation takes around 27 seconds (*down to 12 with recent improvements*) for a file of size 3.1M. 
 
 I also configured Cloudflare to force caching of these files, and the access time is very good, and the data will only be reloaded when it changes. 
 Check by yourself:
