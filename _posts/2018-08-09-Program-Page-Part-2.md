@@ -432,8 +432,8 @@ This program is now run every three hours for the [OR2018](https://www.or2018.be
 
 I also configured Cloudflare to force caching of these files, and the access time is very good, and the data will only be reloaded when it changes. 
 Check by yourself:
-- [OR2018 data](https://www.euro-online.org/conferences/or2018.edn)
-- [EURO2018 data](https://www.euro-online.org/conferences/euro29.edn)
+- [OR2018 data](https://www.euro-online.org/conferences/program/or2018.edn)
+- [EURO2018 data](https://www.euro-online.org/conferences/program/euro29.edn)
 
 This is a good start for the app development, which we will start working on in the next post. Keep tuned!
 
